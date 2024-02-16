@@ -1,0 +1,10 @@
+-Wall
+-g
+-MM
+main.cpp
+finder.cpp
+film.cpp
+group.cpp
+multimedia.cpp
+tcpserver.cpp
+ccsocket.cpp

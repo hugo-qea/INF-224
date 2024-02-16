@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+	{
+		"type": "java",
+		"name": "Launch RemoteControl",
+		"request": "launch",
+		"mainClass": "Java.RemoteControl",
+		"projectName": "INF 224_e85cd234"
+	},
+	{
+		"name": "C/C++ Runner: Debug Session",
+		"type": "lldb",
+		"request": "launch",
+		"args": [],
+		"cwd": "/Users/hugoqueniat/vs-workspace/2A/INF 224",
+		"program": "/Users/hugoqueniat/vs-workspace/2A/INF 224/build/Debug/outDebug"
+	}
+]
+}
